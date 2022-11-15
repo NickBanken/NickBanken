@@ -13,10 +13,10 @@ Of course, I don’t do this alone. I work together with these awesome profiles!
 <p align="center"><img src="https://i.imgur.com/6TrPlQ0.png" width="100"></p>
 
 
-|[@Tanya](https://github.com/Tanya-Amber-L)|[@Nicolas](https://github.com/NicolasJamar)|
+|[@Maxime](https://github.com/Broodco)|[@Nicolas](https://github.com/NicolasJamar)|
 |------|------|
-|<a href="https://github.com/Tanya-Amber-L"><p align="center"><img width="200" src="https://avatars.githubusercontent.com/u/71388306?v=4"></p></a>|<a href="https://github.com/NicolasJamar"><p align="center"><img width="200" src="https://avatars1.githubusercontent.com/u/32648286?s=400&u=979bb8a7ffad6962ba723ff9c4c53283c418ac78&v=4"></p></a>|
-|🕵️‍♀️ **Tanya**, is the co-coach of both on-going promotions. She will gladly assist her juniors with open arms and a big smile on her face. If you want a deep conversation about the Marvel universe, you are at the right adress!|🤵 **Nico**, is the lead-coach of the ongoing Jepsen's promotion. Our in house wordpress developer. Always there for his juniors, would catch a bullet for them.|
+|<a href="https://github.com/Broodco"><p align="center"><img width="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQGs9abglIllEA/profile-displayphoto-shrink_800_800/0/1570034360173?e=1674086400&v=beta&t=0xo4Q1kR0jipx3oAdMYm2VfLLbeXH2gjzLaN0mJKw44"></p></a>|<a href="https://github.com/NicolasJamar"><p align="center"><img width="200" src="https://avatars1.githubusercontent.com/u/32648286?s=400&u=979bb8a7ffad6962ba723ff9c4c53283c418ac78&v=4"></p></a>|
+|🕵️‍♀️ **Maxime**, is the co-coach of both on-going promotions. PHP lover to the core! Back-end problems? He is your guy! |🤵 **Nico**, is the lead-coach of the ongoing Jepsen's promotion. Our in house wordpress developer. Always there for his juniors, he'd catch a bullet for them.|
 
 
 
